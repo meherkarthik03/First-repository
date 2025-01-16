@@ -8,6 +8,6 @@ About Me
 - Current Role: AI Intern  
 - Interests: Guitar, Writing Articles, Plane spotting
 - Skills: Python, Data Analysis, Problem Solving, 
-- Learning Goals: Improving my skills in AI and building impactful projects and try to learn as much as possible  
+- Learning Goals: Improving my skills in AI, building impactful projects and trying to learn as much as possible  
 
 Thank you for visiting my repository.
